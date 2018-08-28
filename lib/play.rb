@@ -39,7 +39,7 @@ end
 
 def play(board)
   plays = 0
-  until 
+  until plays == 9
 
 
 end
