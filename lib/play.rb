@@ -41,8 +41,7 @@ def play(board)
   plays = 0
   until plays == 9
     turn(board)
-    plays+-1
-    puts plays
+    plays++
   end
 
 
