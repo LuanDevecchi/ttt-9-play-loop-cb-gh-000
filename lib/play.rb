@@ -39,4 +39,11 @@ end
 
 def play(board)
   turn(board)
+  turn(board)
+  turn(board)
+  turn(board)
+  turn(board)
+  turn(board)
+  turn(board)
+  turn(board)
 end
